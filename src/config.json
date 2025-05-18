@@ -1,0 +1,15 @@
+{
+    "botSettings": {
+        "prefix": "khat.",
+        "status": "do_not_disturb",
+        "activity": "meow",
+        "embed_footer_icon": "https://cdn.discordapp.com/attachments/1310682716693598208/1314918544949116938/mini-oso.gif?ex=675584d3&is=67543353&hm=024fba228dace3209327346e874bd820381c0349cf317a7bbf28f8ee54ab2ebc&",
+        "embed_footer_text": "meow",
+        "color": "0x5c5c5c",
+        "cogs": [
+            "music",
+            "nsfw",
+            "r34"
+        ]
+    }
+}
